@@ -35,4 +35,4 @@ You can customize the following variables in the script to fit your needs:
 ## Notes
 
 - This script requires `curl` to be installed on your machine.
-- This script assumes that the remote repository is hosted on GitLab. If you're using a different hosting provider, you may need to modify the `GIT_PROJECT` variable to extract the correct project name.
+- This script assumes that the remote repository is hosted on GitLab. If you're using a different hosting provider, you may need to modify them.
